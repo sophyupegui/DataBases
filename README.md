@@ -48,10 +48,3 @@ A central part of this repository is a semester-long project based on the real-w
 
 All data used is **entirely fictional** and created for educational purposes.
 
----
-
-## Technologies Used
-
-- Microsoft SQL Server
-- PostgreSQL
-- MongoDB
