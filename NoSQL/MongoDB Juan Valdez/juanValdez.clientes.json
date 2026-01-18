@@ -1,0 +1,165 @@
+[{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f5e"
+  },
+  "CC": 4994765,
+  "nombre": "Manuel Dominguez Hernandez",
+  "correo": "manuel.dominguez@icloud.com",
+  "celular": {
+    "$numberLong": "3152834917"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f5f"
+  },
+  "CC": 9126913,
+  "nombre": "Raul Martin Blanco",
+  "correo": "raul.martin@outlook.com",
+  "celular": {
+    "$numberLong": "3125738492"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f60"
+  },
+  "CC": 9338691,
+  "nombre": "Esteban Ortega Navarro",
+  "correo": "esteban.ortega@protonmail.com",
+  "celular": {
+    "$numberLong": "3151929791"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f61"
+  },
+  "CC": 9500128,
+  "nombre": "David Ramirez Torres",
+  "correo": "david.ramirez@yandex.com",
+  "celular": {
+    "$numberLong": "3137905238"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f62"
+  },
+  "CC": 10884925,
+  "nombre": "Hugo Ruiz Serrano",
+  "correo": "hugo.ruiz@yahoo.com",
+  "celular": {
+    "$numberLong": "3506932815"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f63"
+  },
+  "CC": 16889933,
+  "nombre": "Samuel Morales Jiménez",
+  "correo": "samuel.morales@aol.com",
+  "celular": {
+    "$numberLong": "3010133293"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f64"
+  },
+  "CC": 18470173,
+  "nombre": "David Gil Serrano",
+  "correo": "david.gil@aol.com",
+  "celular": {
+    "$numberLong": "3044336030"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f65"
+  },
+  "CC": 19984596,
+  "nombre": "Vanessa Lopez Jiménez",
+  "correo": "vanessa.lopez@protonmail.com",
+  "celular": {
+    "$numberLong": "3511696629"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f66"
+  },
+  "CC": 20501691,
+  "nombre": "Nicolas Blanco Blanco",
+  "correo": "nicolas.blanco@icloud.com",
+  "celular": {
+    "$numberLong": "3220138994"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f67"
+  },
+  "CC": 22981492,
+  "nombre": "Javier Lopez Pérez",
+  "correo": "javier.lopez@protonmail.com",
+  "celular": {
+    "$numberLong": "3119399961"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f68"
+  },
+  "CC": 29518553,
+  "nombre": "Ivan Suarez Rodriguez",
+  "correo": "ivan.suarez@aol.com",
+  "celular": {
+    "$numberLong": "3204255774"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f69"
+  },
+  "CC": 32841571,
+  "nombre": "Gabriel Cortés Jiménez",
+  "correo": "gabriel.cortes@aol.com",
+  "celular": {
+    "$numberLong": "3238063775"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f6a"
+  },
+  "CC": 34082653,
+  "nombre": "Sofia Lopez Ruiz",
+  "correo": "sofia.lopez@icloud.com",
+  "celular": {
+    "$numberLong": "3131414234"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f6b"
+  },
+  "CC": 34963804,
+  "nombre": "Irma Santos Pérez",
+  "correo": "irma.santos@aol.com",
+  "celular": {
+    "$numberLong": "3160939020"
+  }
+},
+{
+  "_id": {
+    "$oid": "68fae4b6b212f3771ddc0f6c"
+  },
+  "CC": 36008525,
+  "nombre": "José Hernandez Garrido",
+  "correo": "jose.hernandez@aol.com",
+  "celular": {
+    "$numberLong": "3158183477"
+  }
+}]

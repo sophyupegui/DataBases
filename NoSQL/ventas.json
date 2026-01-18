@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f05d"
+  },
+  "sale_id": 1,
+  "sale_date": {
+    "$date": "2025-09-28T00:00:00.000Z"
+  },
+  "customer_id": "C001",
+  "product": "Auriculares ZX100",
+  "category": "Audio",
+  "quantity": 2,
+  "unit_price": 45,
+  "total": 90,
+  "city": "Bogotá",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f05e"
+  },
+  "sale_id": 2,
+  "sale_date": {
+    "$date": "2025-09-30T00:00:00.000Z"
+  },
+  "customer_id": "C002",
+  "product": "Teclado Mecánico K3",
+  "category": "Periféricos",
+  "quantity": 1,
+  "unit_price": 70,
+  "total": 70,
+  "city": "Medellín",
+  "payment_method": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f05f"
+  },
+  "sale_id": 3,
+  "sale_date": {
+    "$date": "2025-10-01T00:00:00.000Z"
+  },
+  "customer_id": "C001",
+  "product": "Mouse Óptico M10",
+  "category": "Periféricos",
+  "quantity": 3,
+  "unit_price": 18,
+  "total": 54,
+  "city": "Cali",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f060"
+  },
+  "sale_id": 4,
+  "sale_date": {
+    "$date": "2025-10-03T00:00:00.000Z"
+  },
+  "customer_id": "C004",
+  "product": "Monitor 24\" QL",
+  "category": "Monitores",
+  "quantity": 1,
+  "unit_price": 150,
+  "total": 150,
+  "city": "Bogotá",
+  "payment_method": "Transferencia"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f061"
+  },
+  "sale_id": 5,
+  "sale_date": {
+    "$date": "2025-10-05T00:00:00.000Z"
+  },
+  "customer_id": "C005",
+  "product": "Laptop Nova 14",
+  "category": "Computadores",
+  "quantity": 1,
+  "unit_price": 820,
+  "total": 820,
+  "city": "Barranquilla",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f062"
+  },
+  "sale_id": 6,
+  "sale_date": {
+    "$date": "2025-10-07T00:00:00.000Z"
+  },
+  "customer_id": "C006",
+  "product": "Disco SSD 1TB",
+  "category": "Almacenamiento",
+  "quantity": 2,
+  "unit_price": 95,
+  "total": 190,
+  "city": "Medellín",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f063"
+  },
+  "sale_id": 7,
+  "sale_date": {
+    "$date": "2025-10-10T00:00:00.000Z"
+  },
+  "customer_id": "C007",
+  "product": "Impresora Jet 210",
+  "category": "Impresoras",
+  "quantity": 1,
+  "unit_price": 120,
+  "total": 120,
+  "city": "Bogotá",
+  "payment_method": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f064"
+  },
+  "sale_id": 8,
+  "sale_date": {
+    "$date": "2025-10-12T00:00:00.000Z"
+  },
+  "customer_id": "C008",
+  "product": "Router AX3000",
+  "category": "Redes",
+  "quantity": 2,
+  "unit_price": 110,
+  "total": 220,
+  "city": "Cali",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f065"
+  },
+  "sale_id": 9,
+  "sale_date": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "customer_id": "C009",
+  "product": "Cámara Web HD",
+  "category": "Periféricos",
+  "quantity": 2,
+  "unit_price": 35,
+  "total": 70,
+  "city": "Bogotá",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f066"
+  },
+  "sale_id": 10,
+  "sale_date": {
+    "$date": "2025-10-18T00:00:00.000Z"
+  },
+  "customer_id": "C010",
+  "product": "Tablet Orion 10",
+  "category": "Tablets",
+  "quantity": 1,
+  "unit_price": 260,
+  "total": 260,
+  "city": "Cartagena",
+  "payment_method": "Transferencia"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f067"
+  },
+  "sale_id": 11,
+  "sale_date": {
+    "$date": "2025-10-20T00:00:00.000Z"
+  },
+  "customer_id": "C011",
+  "product": "Memoria RAM 16GB",
+  "category": "Almacenamiento",
+  "quantity": 2,
+  "unit_price": 45,
+  "total": 90,
+  "city": "Bogotá",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f068"
+  },
+  "sale_id": 12,
+  "sale_date": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "customer_id": "C012",
+  "product": "Smartwatch Vibe",
+  "category": "Wearables",
+  "quantity": 1,
+  "unit_price": 180,
+  "total": 180,
+  "city": "Medellín",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f069"
+  },
+  "sale_id": 13,
+  "sale_date": {
+    "$date": "2025-10-25T00:00:00.000Z"
+  },
+  "customer_id": "C013",
+  "product": "Auriculares ZX100",
+  "category": "Audio",
+  "quantity": 1,
+  "unit_price": 45,
+  "total": 45,
+  "city": "Bogotá",
+  "payment_method": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06a"
+  },
+  "sale_id": 14,
+  "sale_date": {
+    "$date": "2025-10-27T00:00:00.000Z"
+  },
+  "customer_id": "C014",
+  "product": "Laptop Nova 14",
+  "category": "Computadores",
+  "quantity": 1,
+  "unit_price": 799,
+  "total": 799,
+  "city": "Cali",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06b"
+  },
+  "sale_id": 15,
+  "sale_date": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "customer_id": "C015",
+  "product": "Teclado Mecánico K3",
+  "category": "Periféricos",
+  "quantity": 2,
+  "unit_price": 68,
+  "total": 136,
+  "city": "Medellín",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06c"
+  },
+  "sale_id": 16,
+  "sale_date": {
+    "$date": "2025-11-01T00:00:00.000Z"
+  },
+  "customer_id": "C016",
+  "product": "Mouse Óptico M10",
+  "category": "Periféricos",
+  "quantity": 1,
+  "unit_price": 17,
+  "total": 17,
+  "city": "Bogotá",
+  "payment_method": "Transferencia"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06d"
+  },
+  "sale_id": 17,
+  "sale_date": {
+    "$date": "2025-11-02T00:00:00.000Z"
+  },
+  "customer_id": "C017",
+  "product": "Monitor 27\" QL",
+  "category": "Monitores",
+  "quantity": 1,
+  "unit_price": 220,
+  "total": 220,
+  "city": "Barranquilla",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06e"
+  },
+  "sale_id": 18,
+  "sale_date": {
+    "$date": "2025-11-02T00:00:00.000Z"
+  },
+  "customer_id": "C018",
+  "product": "Bocina BT Mini",
+  "category": "Audio",
+  "quantity": 3,
+  "unit_price": 25,
+  "total": 75,
+  "city": "Cali",
+  "payment_method": "Efectivo"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f06f"
+  },
+  "sale_id": 19,
+  "sale_date": {
+    "$date": "2025-11-03T00:00:00.000Z"
+  },
+  "customer_id": "C019",
+  "product": "Disco SSD 1TB",
+  "category": "Almacenamiento",
+  "quantity": 1,
+  "unit_price": 92,
+  "total": 92,
+  "city": "Bogotá",
+  "payment_method": "Tarjeta"
+},
+{
+  "_id": {
+    "$oid": "690a5a62af98a136db19f070"
+  },
+  "sale_id": 20,
+  "sale_date": {
+    "$date": "2025-11-03T00:00:00.000Z"
+  },
+  "customer_id": "C020",
+  "product": "Router AX3000",
+  "category": "Redes",
+  "quantity": 1,
+  "unit_price": 105,
+  "total": 105,
+  "city": "Medellín",
+  "payment_method": "Tarjeta"
+}]

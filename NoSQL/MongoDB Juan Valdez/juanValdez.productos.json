@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f97"
+  },
+  "producto_id": 2505478,
+  "precio": 4.1,
+  "tipo_producto": "LATTE VAINILLA"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f98"
+  },
+  "producto_id": 1467166,
+  "precio": 3.6,
+  "tipo_producto": "CAFE FRIO AMERICANO"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f99"
+  },
+  "producto_id": 1564507,
+  "precio": 4.5,
+  "tipo_producto": "CHOCOLATE CALIENTE"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9a"
+  },
+  "producto_id": 2609026,
+  "precio": 6.5,
+  "tipo_producto": "NEVADO MATCHA"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9b"
+  },
+  "producto_id": 2846960,
+  "precio": 2.9,
+  "tipo_producto": "ALMOJABANA"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9c"
+  },
+  "producto_id": 2345730,
+  "precio": 3.9,
+  "tipo_producto": "CAFE FRIO CAPPUCCINO"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9d"
+  },
+  "producto_id": 3950855,
+  "precio": 1.9,
+  "tipo_producto": "MACCHIATO"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9e"
+  },
+  "producto_id": 4618013,
+  "precio": 4.6,
+  "tipo_producto": "MOCCA"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0f9f"
+  },
+  "producto_id": 5364794,
+  "precio": 2.9,
+  "tipo_producto": "CROISSANT"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa0"
+  },
+  "producto_id": 7859661,
+  "precio": 4.95,
+  "tipo_producto": "CHEESE CAKE"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa1"
+  },
+  "producto_id": 8984240,
+  "precio": 6.5,
+  "tipo_producto": "NEVADO CARAMELO"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa2"
+  },
+  "producto_id": 7069418,
+  "precio": 4.6,
+  "tipo_producto": "CHAI LATTE"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa3"
+  },
+  "producto_id": 9045660,
+  "precio": 5.8,
+  "tipo_producto": "NEVADO CAFE"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa4"
+  },
+  "producto_id": 9568877,
+  "precio": 4.1,
+  "tipo_producto": "LATTE CARAMELO"
+},
+{
+  "_id": {
+    "$oid": "68fae632b212f3771ddc0fa5"
+  },
+  "producto_id": 9935938,
+  "precio": 4.9,
+  "tipo_producto": "SANDWICH CLUB"
+}]

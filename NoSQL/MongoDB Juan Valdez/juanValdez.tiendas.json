@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f85"
+  },
+  "tienda_id": 100001,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Medellin",
+  "direccion": "Comuna Santa Cruz, Local 164",
+  "tienda_telefono": 6890733
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f86"
+  },
+  "tienda_id": 100100,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Sabaneta",
+  "direccion": "Barrio San Joaquin, Local 35",
+  "tienda_telefono": 7652131
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f87"
+  },
+  "tienda_id": 100240,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Barbosa",
+  "direccion": "Barrio Centro, Local 81",
+  "tienda_telefono": 6266876
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f88"
+  },
+  "tienda_id": 100241,
+  "tipo_tienda": "Virtual",
+  "tienda_telefono": 9257121
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f89"
+  },
+  "tienda_id": 100005,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Medellin",
+  "direccion": "Comuna La America, Local 104",
+  "tienda_telefono": 9163869
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8a"
+  },
+  "tienda_id": 100197,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Girardota",
+  "direccion": "Barrio El Paraiso, Local 33",
+  "tienda_telefono": 5553070
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8b"
+  },
+  "tienda_id": 100145,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Caldas",
+  "direccion": "Barrio La Miel, Local 145",
+  "tienda_telefono": 8850830
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8c"
+  },
+  "tienda_id": 100173,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Copacabana",
+  "direccion": "Barrio La Azulita, Local 130",
+  "tienda_telefono": 3209019
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8d"
+  },
+  "tienda_id": 100010,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Medellin",
+  "direccion": "Comuna Popular, Local 148",
+  "tienda_telefono": 7713542
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8e"
+  },
+  "tienda_id": 100027,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Bello",
+  "direccion": "Barrio Cabanas, Local 111",
+  "tienda_telefono": 9372964
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f8f"
+  },
+  "tienda_id": 100072,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Envigado",
+  "direccion": "Barrio La Magnolia, Local 130",
+  "tienda_telefono": 5256314
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f90"
+  },
+  "tienda_id": 100073,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Itagui",
+  "direccion": "Barrio Villa Paula, Local 02",
+  "tienda_telefono": 5721182
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f91"
+  },
+  "tienda_id": 100097,
+  "tipo_tienda": "Fisica",
+  "ciudad": "Sabaneta",
+  "direccion": "Barrio La Doctora, Local 152",
+  "tienda_telefono": 3862336
+},
+{
+  "_id": {
+    "$oid": "68fae556b212f3771ddc0f92"
+  },
+  "tienda_id": 100121,
+  "tipo_tienda": "Fisica",
+  "ciudad": "La Estrella",
+  "direccion": "Barrio Primavera, Local 102",
+  "tienda_telefono": 9368710
+}]

@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea4"
+  },
+  "producto": "Laptop Gamer",
+  "categoria": "Electrónica",
+  "precio": 1200,
+  "cantidad": 1,
+  "fecha": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "cliente": "Ana"
+},
+{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea5"
+  },
+  "producto": "Mouse Inalámbrico",
+  "categoria": "Electrónica",
+  "precio": 25,
+  "cantidad": 3,
+  "fecha": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "cliente": "Carlos"
+},
+{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea6"
+  },
+  "producto": "Silla Ergonómica",
+  "categoria": "Muebles",
+  "precio": 180,
+  "cantidad": 1,
+  "fecha": {
+    "$date": "2025-10-17T00:00:00.000Z"
+  },
+  "cliente": "Ana"
+},
+{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea7"
+  },
+  "producto": "Teclado Mecánico",
+  "categoria": "Electrónica",
+  "precio": 85,
+  "cantidad": 2,
+  "fecha": {
+    "$date": "2025-10-18T00:00:00.000Z"
+  },
+  "cliente": "Luis"
+},
+{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea8"
+  },
+  "producto": "Monitor 27\"",
+  "categoria": "Electrónica",
+  "precio": 320,
+  "cantidad": 1,
+  "fecha": {
+    "$date": "2025-10-20T00:00:00.000Z"
+  },
+  "cliente": "Carlos"
+},
+{
+  "_id": {
+    "$oid": "6903b82232835932f2cebea9"
+  },
+  "producto": "Escritorio Ajustable",
+  "categoria": "Muebles",
+  "precio": 250,
+  "cantidad": 1,
+  "fecha": {
+    "$date": "2025-10-22T00:00:00.000Z"
+  },
+  "cliente": "María"
+}]

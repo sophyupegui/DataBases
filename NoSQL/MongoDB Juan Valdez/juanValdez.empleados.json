@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "68fae4c0b212f3771ddc0f6e"
+  },
+  "id_empleado": 700001,
+  "tienda_id": 100131,
+  "nombre": "Sebastian Rodriguez",
+  "cargo": "Operativo"
+},
+{
+  "_id": {
+    "$oid": "68fae4c0b212f3771ddc0f6f"
+  },
+  "id_empleado": 700002,
+  "tienda_id": 100131,
+  "nombre": "Patricia Alvarez",
+  "cargo": "Operativo"
+},
+{
+  "_id": {
+    "$oid": "68fae4c0b212f3771ddc0f70"
+  },
+  "id_empleado": 700003,
+  "tienda_id": 100131,
+  "nombre": "Valentina Acosta",
+  "cargo": "Operativo"
+},
+{
+  "_id": {
+    "$oid": "68fae4c0b212f3771ddc0f71"
+  },
+  "id_empleado": 700004,
+  "tienda_id": 100131,
+  "nombre": "Adriana Gonzalez",
+  "cargo": "Operativo"
+},
+{
+  "_id": {
+    "$oid": "68fae4c0b212f3771ddc0f72"
+  },
+  "id_empleado": 700005,
+  "tienda_id": 100131,
+  "nombre": "Carlos Rodriguez",
+  "cargo": "Operativo"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea4"
+  },
+  "id_empleado": 700058,
+  "tienda_id": 100152,
+  "nombre": "Luis Ramirez",
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea5"
+  },
+  "id_empleado": 700063,
+  "tienda_id": 100252,
+  "nombre": "Facundo Navarro",
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea6"
+  },
+  "id_empleado": 700099,
+  "tienda_id": 100243,
+  "nombre": "Melisa Romero",
+  "cargo": "Manager"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea7"
+  },
+  "id_empleado": 700065,
+  "tienda_id": 100252,
+  "nombre": "Eliana Salazar",
+  "cargo": "Manager"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea8"
+  },
+  "id_empleado": 700102,
+  "tienda_id": 100085,
+  "nombre": "Karina Suarez",
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "68fb06b291696e1d50cebea9"
+  },
+  "id_empleado": 700103,
+  "tienda_id": 100085,
+  "nombre": "Yulieth Castro",
+  "cargo": "Operativo"
+}]
